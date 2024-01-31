@@ -1,1 +1,1 @@
-Rust Practice for codeforces problems
+## Rust Practice on codeforces problems
